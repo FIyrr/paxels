@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:golden_shovel"
+        },
+        {
+            "item": "minecraft:golden_pickaxe"
+        },
+        {
+            "item": "minecraft:golden_axe"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

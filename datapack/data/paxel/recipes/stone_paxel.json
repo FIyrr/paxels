@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stone_shovel"
+        },
+        {
+            "item": "minecraft:stone_pickaxe"
+        },
+        {
+            "item": "minecraft:stone_axe"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

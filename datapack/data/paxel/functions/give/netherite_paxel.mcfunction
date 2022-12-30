@@ -1,0 +1,1 @@
+give @s netherite_axe{CustomModelData:333,display:{Name:'{"text":"Netherite Paxel","italic":false}'},NetheritePaxel:1b,Paxel:1b} 1

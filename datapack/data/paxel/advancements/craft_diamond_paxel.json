@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "paxel:diamond_paxel"
+            }
+        }
+    },
+    "rewards": {
+        "function": "paxel:give/diamond_paxel"
+    }
+}

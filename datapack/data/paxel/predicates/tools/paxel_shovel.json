@@ -1,0 +1,12 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "tag": "paxel:shovels",
+          "nbt": "{Paxel:1b}"
+        }
+      }
+    }
+  }
